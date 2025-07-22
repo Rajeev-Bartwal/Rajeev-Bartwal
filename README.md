@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajeev Bartwal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **OWE-Hub**
+- 🔭 I’m previously working on **OWE-Hub**
 
 - 🌱 I’m currently learning **JavaScript , React.**
 
